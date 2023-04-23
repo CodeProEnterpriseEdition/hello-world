@@ -33,7 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
    <h1> Oma muokkaus, jee! </h1>
-   <h1> Oma muokkaus osa kaksi, jee! </h1>
 
   
 </form>
