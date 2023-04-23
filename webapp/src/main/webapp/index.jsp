@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Oma muokkaus, jee! </h1>
+   <h1> Oma muokkaus, jee2! </h1>
 
   
 </form>
